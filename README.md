@@ -1,4 +1,6 @@
 ## Bem Vindo ao meu Perfil 👋
+Meu Nome é Yago José
+Estou No Segundo Ano do Ensino médio na Escola Joao Jorge Marmorato
 
 <!--
 **ghostfrozt011/ghostfrozt011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
